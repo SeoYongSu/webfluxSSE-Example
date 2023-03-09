@@ -1,0 +1,10 @@
+server:
+  port: 8888
+
+spring:
+  data:
+    mongodb:
+      database: test01
+      host: localhost
+      port: 27017
+      auto-index-creation: true
